@@ -65,7 +65,7 @@ http://www.gulixueyuan.com/ 谷粒学院
 
 整合maven进来；
 
-![idea设置](images/搜狗截图20180129151045.png)
+![idea设置](file:///F:/SpringBoot/视频/源码、资料、课件/文档/Spring Boot 笔记/images/搜狗截图20180129151045.png)
 
 
 
